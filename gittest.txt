@@ -1,2 +1,4 @@
-This is a git test for ver1
+This is a git test for ver2
 ver1: file changed
+Git is a distributed version control system.
+Git is free software distributed under the GPL
